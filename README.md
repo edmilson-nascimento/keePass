@@ -5,12 +5,9 @@
 
 
 * [Instalação](#Instalação)
-* [Getting Started](#getting-started)
+	- [Filtro por ID](#filtro-por-id)
+	- [Filtro por Nome](#filtro-por-nome)
 * [Sub-items](#sub-items)
-* [Referring to Items](#referring-to-items)
-	- [Get All Items](#get-all-items)
-	- [Get Sub-items of the Item](#get-sub-items-of-the-item)
-	- [Magic Where Methods](#magic-where-methods)
 
 ## Instalação
 
@@ -24,11 +21,17 @@
 
 
  ### Filtro por ID
-	- [Magic Where Methods](#magic-where-methods)
 
-
+```
+cmd://sapshcut -maxgui -sysname="Goialli-QAS Externo" -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
+```
 
  ### Filtro por Nome
+
+```
+ cmd://sapshcut -maxgui -sysname="EDP Distribuicao - Prod Fire Fighter P21 72s" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
+```
+
 
 
 
