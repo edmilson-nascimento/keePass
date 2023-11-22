@@ -4,7 +4,7 @@
  > Não sei se isso esta bem, mas segue o menu abaixo
 
 
- * [Instalação](#Instalação)
+* [Instalação](#Instalação)
 * [Getting Started](#getting-started)
 * [Sub-items](#sub-items)
 * [Referring to Items](#referring-to-items)
