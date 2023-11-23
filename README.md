@@ -1,5 +1,5 @@
 # keePass
- Isso foi criado para corretas configurações para o KeePass app.
+ Isso foi criado para corretas configurações do app KeePass app.
 
  > Não sei se isso esta bem, mas segue o menu abaixo
 
