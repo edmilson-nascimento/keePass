@@ -22,13 +22,13 @@
 
 
  ### Filtro por ID
-
+Usando ID como filtro.
 ```
 cmd://sapshcut -maxgui -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
 ```
 
  ### Filtro por Nome
-
+Usando o nome da entrada no SAPGui.
 ```
  cmd://sapshcut -maxgui -sysname="Entrada-QAS" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
 ```
