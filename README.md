@@ -23,7 +23,7 @@
  ### Filtro por ID
 
 ```
-cmd://sapshcut -maxgui -sysname="Goialli-QAS Externo" -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
+cmd://sapshcut -maxgui -sysname="Servidor-Entrada" -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
 ```
 
  ### Filtro por Nome
