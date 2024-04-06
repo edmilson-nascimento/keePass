@@ -35,4 +35,3 @@ cmd://sapshcut -maxgui -system=P01 -language=PT -client=400 -user={USERNAME} -pw
 
 ## Sub-items
 .
-
