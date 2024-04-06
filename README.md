@@ -23,13 +23,13 @@
  ### Filtro por ID
 
 ```
-cmd://sapshcut -maxgui -sysname="Servidor-Entrada" -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
+cmd://sapshcut -maxgui -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
 ```
 
  ### Filtro por Nome
 
 ```
- cmd://sapshcut -maxgui -sysname="EDP Distribuicao - Prod Fire Fighter P21 72s" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
+ cmd://sapshcut -maxgui -sysname="Entrada-QAS" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
 ```
 
 
