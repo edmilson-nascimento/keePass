@@ -22,8 +22,8 @@
 
 
  ### Filtro por ID
-Usando ID como filtro.
-```
+Usando ID como filtro. Neste caso, é possivel aplicar usando menos paremetros do que de comum.
+```texst
 cmd://sapshcut -maxgui -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
 ```
 
