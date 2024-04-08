@@ -33,6 +33,5 @@ Usando o nome da entrada no SAPGui. Por vezes podem haver entradas para o mesmo 
  cmd://sapshcut -maxgui -sysname="Entrada-QAS" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
 ```
 
-
 ## Sub-items
 .
