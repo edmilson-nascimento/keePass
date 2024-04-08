@@ -23,12 +23,12 @@
 
  ### Filtro por ID
 Usando ID como filtro. Neste caso, é possivel aplicar usando menos paremetros do que de comum.
-```texst
+```text
 cmd://sapshcut -maxgui -system=P01 -language=PT -client=400 -user={USERNAME} -pw={PASSWORD}
 ```
 
  ### Filtro por Nome
-Usando o nome da entrada no SAPGui.
+Usando o nome da entrada no SAPGui. Por vezes podem haver entradas para o mesmo ID porem, com DNS diferente. Neste caso é possivel direcionar para o nome da forma que esta no SAPGui.
 ```
  cmd://sapshcut -maxgui -sysname="Entrada-QAS" -system=P21 -language=PT -client=100 -user={USERNAME} -pw={PASSWORD}
 ```
